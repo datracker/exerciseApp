@@ -1,2 +1,0 @@
-# exerciseApp
-Created with CodeSandbox
